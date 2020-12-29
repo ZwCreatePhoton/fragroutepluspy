@@ -1,0 +1,2 @@
+scapy
+git+git://github.com/CreatePhotonW/dpkt
