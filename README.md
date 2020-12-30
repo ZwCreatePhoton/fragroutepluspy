@@ -112,12 +112,18 @@ To get a local copy up and running follow these simple steps.
 * python2
 
 * nfqueue python bindings
+
+    ```
     sudo add-apt-repository 'deb http://http.us.debian.org/debian stretch main contrib non-free'
     sudo apt update
     sudo apt install python-nfqueue
+    ```
 
 * python packages
+
+    ```
     sudo pip install -r requirements.txt
+    ```
 
 ### Installation
 
