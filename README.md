@@ -137,7 +137,7 @@ To get a local copy up and running follow these simple steps.
 
 Run:
 
-    sudo ./fragroutepluspy/fragroutepluspy.py -f fragroutepluspy/tcp_seg.conf 1.2.3.4
+    sudo ./fragroutepluspy/fragroutepluspy.py -f fragroutepluspy/scripts/tcp_seg.conf 1.2.3.4
 
 Where "1.2.3.4" is the IPv4 or IPv6 address of the destination.
 
